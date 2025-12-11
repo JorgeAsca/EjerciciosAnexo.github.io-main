@@ -1,0 +1,48 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  background-color: #f7f8fc;
+  color: #222;
+}
+
+header {
+  text-align: center;
+  background-color: #1a54b8;
+  color: white;
+  padding: 2rem 1rem;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+h1 {
+  margin-bottom: 0.5rem;
+}
+
+main {
+  padding: 2rem;
+}
+
+.grid-ejercicios {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 1rem;
+}
+
+.card {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  padding: 1rem;
+  text-align: center;
+  text-decoration: none;
+  font-weight: 600;
+  color: #2b6cb0;
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+}
+
+.card:hover {
+  background-color: #2b6cb0;
+  color: #fff;
+  transform: translateY(-3px);
+}
+
