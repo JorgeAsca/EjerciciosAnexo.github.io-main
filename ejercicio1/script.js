@@ -1,10 +1,9 @@
-// EJERCICIO 1: Tipos de datos en JavaScript
-// Declaración de variables con diferentes tipos de datos
-let nombre = "Carlos";                                    // String (cadena de texto)
-let edad = 25;                                           // Number (número)
-let esEstudiante = true;                                 // Boolean (verdadero/falso)
-let habilidades = ["HTML", "CSS", "JavaScript"];         // Array (arreglo)
-let direccion = { ciudad: "Madrid", pais: "España" };    // Object (objeto)
+
+let nombre = "Carlos";                                   
+let edad = 25;                                          
+let esEstudiante = true;                                
+let habilidades = ["HTML", "CSS", "JavaScript"];        
+let direccion = { ciudad: "Madrid", pais: "España" };   
 
 // Mostrar cada variable y su tipo usando el operador typeof
 console.log("Nombre:", nombre, ":", typeof nombre);           // Muestra: string

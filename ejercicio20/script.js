@@ -1,5 +1,4 @@
-// EJERCICIO 20: Conversión de texto a mayúsculas y minúsculas
-// Agregar evento click al botón
+
 document.getElementById("btnConvertir").addEventListener("click", () => {
   // Obtener el texto del input
   const texto = document.getElementById("texto").value;

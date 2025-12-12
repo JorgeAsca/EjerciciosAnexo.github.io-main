@@ -1,5 +1,4 @@
-// EJERCICIO 16: Conversión de temperatura (Celsius a Fahrenheit)
-// Agregar evento click al botón
+
 document.getElementById("btnConvertir").addEventListener("click", () => {
   // Obtener el valor en Celsius del input
   const celsius = Number(document.getElementById("celsius").value);

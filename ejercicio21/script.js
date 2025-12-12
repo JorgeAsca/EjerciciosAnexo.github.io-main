@@ -1,5 +1,4 @@
-// EJERCICIO 21: Filtrado de arrays con condición personalizada
-// Agregar evento click al botón
+
 document.getElementById("btnFiltrar").addEventListener("click", () => {
   // Obtener el valor de referencia del input
   const valor = Number(document.getElementById("valor").value);

@@ -1,5 +1,4 @@
-// EJERCICIO 15: Números primos - funciones y algoritmos
-// Función para verificar si un número es primo
+
 function esPrimo(num) {
   // Los números menores a 2 no son primos
   if (num < 2) return false;

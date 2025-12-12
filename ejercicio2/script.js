@@ -1,5 +1,4 @@
-// EJERCICIO 2: Arrays y filtrado de datos
-// Agregar evento click al botón
+
 document.getElementById("btnMostrar").addEventListener("click", () => {
   // Generar array de 100 números aleatorios entre 1 y 100
   const numeros = Array.from({ length: 100 }, () => Math.floor(Math.random() * 100) + 1);

@@ -1,5 +1,4 @@
-// EJERCICIO 3: Objetos complejos y anidados
-// Agregar evento click al botón
+
 document.getElementById("btnVer").addEventListener("click", () => {
   // Crear objeto complejo con propiedades de diferentes tipos
   const persona = {

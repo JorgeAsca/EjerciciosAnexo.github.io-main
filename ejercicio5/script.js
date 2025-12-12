@@ -1,5 +1,4 @@
-// EJERCICIO 5: Condicionales y operador ternario
-// Agregar evento click al botón
+
 document.getElementById("btnVerificar").addEventListener("click", () => {
   // Solicitar un número al usuario
   const numero = Number(prompt("Ingresa un número:"));

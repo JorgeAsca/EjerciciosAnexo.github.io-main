@@ -1,5 +1,4 @@
-// EJERCICIO 12: Filtrado de arrays - números pares
-// Agregar evento click al botón
+
 document.getElementById("btnFiltrar").addEventListener("click", () => {
   // Array con números del 1 al 10
   const numeros = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];

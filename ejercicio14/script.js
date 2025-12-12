@@ -1,5 +1,4 @@
-// EJERCICIO 14: Verificar si una palabra es palíndromo
-// Agregar evento click al botón
+
 document.getElementById("btnVerificar").addEventListener("click", () => {
   // Obtener palabra, convertir a minúsculas y eliminar espacios
   const palabra = document.getElementById("palabra").value.toLowerCase().replace(/\s+/g, "");

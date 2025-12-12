@@ -1,5 +1,4 @@
-// EJERCICIO 6: Entrada desde formulario HTML
-// Agregar evento click al botón
+
 document.getElementById("btnComprobar").addEventListener("click", () => {
   // Obtener el valor del input HTML y convertirlo a número
   const numero = Number(document.getElementById("numeroInput").value);

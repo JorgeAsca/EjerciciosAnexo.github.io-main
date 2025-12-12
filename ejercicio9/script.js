@@ -1,5 +1,4 @@
-// EJERCICIO 9: Manipulación de strings - inversión
-// Agregar evento click al botón
+
 document.getElementById("btnInvertir").addEventListener("click", () => {
   // Obtener el texto del input
   const texto = document.getElementById("texto").value;

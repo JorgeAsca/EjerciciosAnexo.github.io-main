@@ -1,5 +1,4 @@
-// EJERCICIO 13: Contar palabras en una frase
-// Agregar evento click al botón
+
 document.getElementById("btnContar").addEventListener("click", () => {
   // Obtener la frase del input y eliminar espacios al inicio y final
   const frase = document.getElementById("frase").value.trim();

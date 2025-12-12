@@ -1,5 +1,4 @@
-// EJERCICIO 10: Encontrar el valor máximo en un array
-// Agregar evento click al botón
+
 document.getElementById("btnMayor").addEventListener("click", () => {
   // Array predefinido con números
   const numeros = [12, 45, 7, 89, 23, 56, 90, 33];

@@ -1,5 +1,4 @@
-// EJERCICIO 19: Cálculo del promedio de un array
-// Agregar evento click al botón
+
 document.getElementById("btnPromedio").addEventListener("click", () => {
   // Generar array de 10 números aleatorios entre 0 y 99
   const numeros = Array.from({ length: 10 }, () => Math.floor(Math.random() * 100));

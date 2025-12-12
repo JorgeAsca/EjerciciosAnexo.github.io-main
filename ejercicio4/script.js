@@ -1,5 +1,4 @@
-// EJERCICIO 4: Entrada de datos y operaciones aritméticas
-// Agregar evento click al botón
+
 document.getElementById("btnSumar").addEventListener("click", () => {
   // Solicitar dos números al usuario usando prompt()
   const num1 = Number(prompt("Ingresa el primer número:"));

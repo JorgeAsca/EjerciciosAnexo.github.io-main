@@ -1,5 +1,4 @@
-// EJERCICIO 11: Conteo de frecuencias en arrays
-// Agregar evento click al botón
+
 document.getElementById("btnGenerar").addEventListener("click", () => {
   // Crear array vacío para almacenar números
   const numeros = [];

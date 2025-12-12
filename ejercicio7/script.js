@@ -1,5 +1,4 @@
-// EJERCICIO 7: Bucles y manipulación de strings
-// Agregar evento click al botón
+
 document.getElementById("btnContar").addEventListener("click", () => {
   // Obtener la palabra del input y convertirla a minúsculas
   const palabra = document.getElementById("palabra").value.toLowerCase();

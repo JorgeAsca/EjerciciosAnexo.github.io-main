@@ -1,5 +1,4 @@
-// EJERCICIO 18: Encontrar la palabra más larga en una frase
-// Agregar evento click al botón
+
 document.getElementById("btnBuscar").addEventListener("click", () => {
   // Obtener la frase del input y eliminar espacios extra
   const frase = document.getElementById("frase").value.trim();

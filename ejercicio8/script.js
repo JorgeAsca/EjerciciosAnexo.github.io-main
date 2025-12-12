@@ -1,5 +1,4 @@
-// EJERCICIO 8: Números aleatorios y validación de rangos
-// Agregar evento click al botón
+
 document.getElementById("btnGenerar").addEventListener("click", () => {
   // Obtener los valores mínimo y máximo del formulario
   const min = Number(document.getElementById("min").value);
